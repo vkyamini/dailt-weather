@@ -14,7 +14,7 @@ Link to application on github pages: https://vkyamini.github.io/dailt-weather/
 * Github
 
 ## Description
-A weaher to check the weather for a particular city.
+A weather to check the weather for a particular city.
 
 ## License
 MIT License
