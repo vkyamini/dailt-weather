@@ -2,7 +2,7 @@
 
 Get up-to-date details on the weather on a daily basis.
 
- [Link](https://vkyamini.github.io/dailt-weather/)
+ [Website Link](https://vkyamini.github.io/dailt-weather/)
 
 
 ## Table of Contents
